@@ -1,12 +1,7 @@
----
-  tags: rack, advanced, middleware 
-  languages: ruby
-  resources: 0
----
 
 ## Rack Lab
 
-Now that we're worked a bit with rack and middleware, it's your turn to create a spiffy Rack app! It's a very simple, totally contrived app, but the end result will use everything you've learned thus far in terms of Rack and middleware, as well as put your ERB rendering skills to the test.
+Now that we've worked a bit with rack and middleware, it's your turn to create a spiffy Rack app! It's a very simple, totally contrived app, but the end result will use everything you've learned thus far in terms of Rack and middleware, as well as put your ERB rendering skills to the test.
 
 1. Whenever you run `rspec`, you'll want to make sure you are in this directory.
 2. Your main Rack `Application` is going to live in `app/application.rb`.
